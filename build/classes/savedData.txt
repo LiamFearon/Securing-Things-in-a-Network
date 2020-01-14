@@ -1,0 +1,36 @@
+The connected IPs to the network:  150.204.196.
+150.204.196.96 is found on the network
+Name       Mtu   Network       Address            Ipkts Ierrs    Opkts Oerrs  Coll
+lo0   16384 <Link#1>                         13054     0    13054     0     0
+lo0   16384 127           localhost          13054     -    13054     -     -
+lo0   16384 localhost   ::1                  13054     -    13054     -     -
+lo0   16384 liams-macbo fe80:1::1            13054     -    13054     -     -
+gif0* 1280  <Link#2>                             0     0        0     0     0
+stf0* 1280  <Link#3>                             0     0        0     0     0
+en3   1500  <Link#4>    ac:de:48:00:11:22    21172     0    20346   696     0
+en3   1500  fe80::aede: fe80:4::aede:48ff    21172     -    20346     -     -
+ap1*  1500  <Link#5>    a6:83:e7:98:7c:51        0     0        0     0     0
+en0   1500  <Link#6>    a4:83:e7:98:7c:51  5942775     0  3754169   903     0
+en0   1500  liams-macbo fe80:6::14d1:e8cd  5942775     -  3754169     -     -
+en0   1500  150.204.196/2 150.204.196.96   5942775     -  3754169     -     -
+en1   1500  <Link#7>    82:ea:30:6a:3c:01        0     0        0     0     0
+en2   1500  <Link#8>    82:ea:30:6a:3c:00        0     0        0     0     0
+bridg 1500  <Link#9>    82:ea:30:6a:3c:01        0     0        0     0     0
+p2p0  2304  <Link#10>   06:83:e7:98:7c:51        0     0        0     0     0
+awdl0 1484  <Link#11>   2a:28:97:be:a5:65       49     0      213     0     0
+awdl0 1484  fe80::2828: fe80:b::2828:97ff       49     -      213     -     -
+llw0  1500  <Link#12>   2a:28:97:be:a5:65        0     0        0     0     0
+llw0  1500  fe80::2828: fe80:c::2828:97ff        0     -        0     -     -
+utun0 1380  <Link#13>                            0     0        2     0     0
+utun0 1380  liams-macbo fe80:d::8ad6:813:        0     -        2     -     -
+utun1 2000  <Link#14>                            0     0        2     0     0
+utun1 2000  liams-macbo fe80:e::fd37:2acb        0     -        2     -     -
+
+Socket Information
+Domain Name is:  localhost
+Private IP Addtess is:  127.0.0.1
+Host Name is:  Liams-MacBook-Pro.local
+javax.crypto.spec.SecretKeySpec@fffe85f7
+[B@17d99928
+[B@23223dd8
+[B@4ec6a292
